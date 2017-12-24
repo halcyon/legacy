@@ -1,0 +1,3 @@
+209.249.53.245 - - [24/Apr/2011:04:52:46 -0700] "GET /about.html HTTP/1.1" 200 7258 "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1 + FairShare-http://fairshare.cc)"
+207.46.204.194 - - [24/Apr/2011:23:08:51 -0700] "GET /robots.txt HTTP/1.1" 404 216 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)"
+207.46.204.194 - - [24/Apr/2011:23:09:52 -0700] "GET / HTTP/1.1" 200 6817 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)"

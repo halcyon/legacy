@@ -1,0 +1,8 @@
+78.129.201.71 - - [20/Apr/2011:00:27:57 -0700] "GET /robots.txt HTTP/1.0" 404 204 "-" "Mozilla/5.0 (compatible; MJ12bot/v1.3.3; http://www.majestic12.co.uk/bot.php?+)"
+78.129.201.71 - - [20/Apr/2011:00:27:59 -0700] "GET / HTTP/1.0" 200 6817 "-" "Mozilla/5.0 (compatible; MJ12bot/v1.3.3; http://www.majestic12.co.uk/bot.php?+)"
+78.129.201.71 - - [20/Apr/2011:00:28:15 -0700] "GET /robots.txt HTTP/1.0" 404 204 "-" "Mozilla/5.0 (compatible; MJ12bot/v1.3.3; http://www.majestic12.co.uk/bot.php?+)"
+78.129.201.71 - - [20/Apr/2011:00:28:16 -0700] "GET / HTTP/1.0" 200 6817 "-" "Mozilla/5.0 (compatible; MJ12bot/v1.3.3; http://www.majestic12.co.uk/bot.php?+)"
+207.46.204.177 - - [20/Apr/2011:01:29:42 -0700] "GET /robots.txt HTTP/1.1" 404 216 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)"
+207.46.204.177 - - [20/Apr/2011:01:31:05 -0700] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)"
+208.80.194.34 - - [20/Apr/2011:01:36:58 -0700] "GET / HTTP/1.0" 200 6817 "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; {6DBDAA99-692C-BE01-3DA6-05AD4FBB4F38}; .NET CLR 2.0.50727; .NET CLR 1.1.4322)"
+67.195.114.254 - - [20/Apr/2011:07:24:05 -0700] "GET /robots.txt HTTP/1.0" 404 204 "-" "Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)"

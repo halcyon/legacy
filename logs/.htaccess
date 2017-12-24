@@ -1,0 +1,6 @@
+AuthType Basic
+AuthName "Restricted Area"
+AuthUserFile /services/webpages/m/o/mohnani-group.com/etc/.htpasswd
+<Limit GET POST>
+require valid-user
+</Limit>

@@ -1,0 +1,16 @@
+# -FrontPage-
+
+Options None
+
+<Limit GET POST>
+order deny,allow
+deny from all
+allow from all
+</Limit>
+<Limit PUT DELETE>
+order deny,allow
+deny from all
+</Limit>
+AuthName www.mohnani-group.com
+AuthUserFile /services/webpages/m/o/mohnani-group.com/public/_vti_pvt/service.pwd
+AuthGroupFile /services/webpages/m/o/mohnani-group.com/public/_vti_pvt/service.grp
